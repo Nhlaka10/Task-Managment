@@ -1,0 +1,185 @@
+The total number of users is 15
+
+The total number of tasks is 9
+
+
+for user: admin
+===================================
+The total number of tasks for admin is 2
+
+    The percentage of the total number of tasks assigned to the user is 22.22222222222222 %
+
+    The percentage of tasks assigned to the user that are complete is 50.0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 50.0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0.0 %
+=======================================================================================================
+for user: bob
+===================================
+The total number of tasks for bob is 2
+
+    The percentage of the total number of tasks assigned to the user is 22.22222222222222 %
+
+    The percentage of tasks assigned to the user that are complete is 0.0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 100.0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 50.0 %
+=======================================================================================================
+for user: sipho
+===================================
+The total number of tasks for sipho is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: kaka
+===================================
+The total number of tasks for kaka is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: ruben
+===================================
+The total number of tasks for ruben is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: oja
+===================================
+The total number of tasks for oja is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: boss
+===================================
+The total number of tasks for boss is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: karabo
+===================================
+The total number of tasks for karabo is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: tom
+===================================
+The total number of tasks for tom is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: denis
+===================================
+The total number of tasks for denis is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: tiego
+===================================
+The total number of tasks for tiego is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: bayern
+===================================
+The total number of tasks for bayern is 0
+
+    The percentage of the total number of tasks assigned to the user is 0 %
+
+    The percentage of tasks assigned to the user that are complete is 0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0 %
+=======================================================================================================
+for user: donald
+===================================
+The total number of tasks for donald is 1
+
+    The percentage of the total number of tasks assigned to the user is 11.11111111111111 %
+
+    The percentage of tasks assigned to the user that are complete is 0.0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 100.0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0.0 %
+=======================================================================================================
+for user: benson
+===================================
+The total number of tasks for benson is 3
+
+    The percentage of the total number of tasks assigned to the user is 33.33333333333333 %
+
+    The percentage of tasks assigned to the user that are complete is 33.33333333333333 %
+
+    The percentage of tasks assigned to the user that must still be completed is 66.66666666666666 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0.0 %
+=======================================================================================================
+for user: danone
+===================================
+The total number of tasks for danone is 1
+
+    The percentage of the total number of tasks assigned to the user is 11.11111111111111 %
+
+    The percentage of tasks assigned to the user that are complete is 100.0 %
+
+    The percentage of tasks assigned to the user that must still be completed is 0.0 %
+
+    The percentage of tasks assigned to the user that have not yet been completed and are overdue is 0.0 %
+=======================================================================================================
